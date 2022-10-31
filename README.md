@@ -5,6 +5,7 @@
 ![tiddlywink](https://cdn.discordapp.com/attachments/1026948633381318797/1036023824749166792/unknown.png)
 
 Required Hardware:
+
 -diodes x38 (SOD-123)
 
 -RGB LEDs x10 (optional) (WS2812B-B)

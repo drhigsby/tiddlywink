@@ -1,0 +1,10 @@
+# KiCad auto-generated files
+*.kicad_prl
+*-backups/
+fp-info-cache
+*.000
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
